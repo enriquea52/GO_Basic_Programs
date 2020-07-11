@@ -1,3 +1,7 @@
+/*
+This program reads first and last names from a .txt file 
+and prints them into the terminal
+*/
 package main
 import(
 	"fmt"

@@ -1,3 +1,7 @@
+/*
+This simple program truncates the decimal part 
+of any number leaving just the integer part
+*/
 package main
 import (
 	"fmt"

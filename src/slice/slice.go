@@ -1,3 +1,8 @@
+/*
+This program receives input from the user and stores 
+such value into a sorted array as long as the value entered is
+an integer value.
+*/
 package main
 import(
 

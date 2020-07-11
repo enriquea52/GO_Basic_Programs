@@ -1,3 +1,8 @@
+/*
+This program identifies the existence of defined patterns 
+(a string beginning with 'i', contaning 'a' or ending with 'n')
+from user input
+*/
 package main
 
 import (

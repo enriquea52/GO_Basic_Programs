@@ -1,3 +1,6 @@
+/*
+Basic Go Porgram for understanding the use of pointers.
+*/
 package main
 
 import (
@@ -18,4 +21,3 @@ func main() {
 
 
 }
-
